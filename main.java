@@ -4,7 +4,7 @@ import java.util.HashMap;
 class Main {
     public static void main(String[] args) {
 
-        // 0 Set variables to play with
+        // Set the variables list
         Integer[] nList = { 55, 1, 87, 2, 7 }; // array of integers
         int num_1 = 2;
 
